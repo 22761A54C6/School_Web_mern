@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "mongoose": "^8.16.2"
+  },
+  "scripts": {
+    "start": "npm --prefix backend start"
+  }
+}
