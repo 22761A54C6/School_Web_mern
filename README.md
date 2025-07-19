@@ -39,14 +39,14 @@ make sure uri should keep in .env flie in backend to storage the date.
 **1.Open Main Directory:**
 ```bash
 -cd MERN-School-Management-System
----
-### 🔧 2. Frontend Setup:
+
+🔧 2. Frontend Setup:
 
 cd frontend
 npm start
 
----
-### 🔧 Start Backend Server
+
+🔧 Start Backend Server
 
 cd backend
 npm start
